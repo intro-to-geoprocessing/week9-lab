@@ -1,0 +1,152 @@
+﻿code;district;fiscal_income;monthly_rent;perc_house_with_central_heating
+1;Grote Markt;16100;947;73,67
+2;Dansaert;12798;711;69,13
+3;Begijnhof - Diksmuide;13144;826;76,05
+4;Martelaars;14225;663;82,95
+5;Onze-Lieve-Vrouw-ter-Sneeuw;14141;663;77,38
+6;Koningswijk;18998;663;83,16
+7;Zavel;16426;808;71,44
+8;Marollen;8529;658;64,88
+9;Stalingrad;11056;647;64,36
+10;Anneessens;9067;632;56,86
+11;Kuregem Bara;;645;52,43
+12;Kuregem Veeartsenij;8211;622;53,92
+13;Kuregem Dauw;7607;613;55,41
+14;Hertogin;8560;702;48,82
+15;Weststation;;679;47,38
+16;Historisch Molenbeek;7132;643;56,32
+17;Koekelberg;9162;648;60,59
+18;Havenwijk;;666;58,74
+19;Oud Laken West;9764;751;57,56
+20;Oud Laken Oost;8584;723;56,83
+21;Noordwijk;;668;69,80
+22;Brabantwijk;7773;593;54,88
+23;Colignon;9912;613;58,17
+24;Haachtse Steenweg;8272;636;54,28
+25;Sint-Joost Centrum;8853;640;60,15
+26;Dailly;12348;645;63,53
+27;Josaphat;15247;718;71,85
+28;Plasky;15434;773;78,29
+29;Squares;11902;827;73,59
+30;Tervurense Poort;15116;941;78,92
+31;Sint-Michiel;18013;733;88,16
+32;Sint-Pieter;14928;762;75,75
+33;Jacht;12597;796;66,58
+34;Jourdan;12020;710;69,86
+35;Europawijk;13365;985;81,68
+36;Matonge;11871;712;65,76
+37;Flagey - Malibran;12552;665;59,10
+38;Hospitaal Etterbeek-Elsene;14979;698;78,12
+39;Vijvers van Elsene;;886;88,28
+40;Louiza - Langehaag;15513;825;79,27
+41;Berckmans - Munthof;14167;710;72,23
+42;Kastelein;18140;989;80,16
+43;Brugmann - Lepoutre;19616;903;80,88
+44;Churchill;19882;844;87,32
+45;Molière - Longchamp;16066;831;72,26
+46;Hoogte 100;18311;911;82,45
+47;Hoog Sint-Gillis;14459;713;58,12
+48;Hallepoort;9858;690;55,76
+49;Bosnie;9279;698;39,17
+50;Laag Vorst;;645;50,81
+51;Van Volxem - Van Haelen;14763;703;70,25
+52;Veeweide - Aurore;11790;629;70,22
+53;Bizet - Rad - Coovi;;691;55,40
+54;Vogelenzang - Erasmus;14333;595;86,06
+55;Neerpede;19678;595;81,32
+56;Goede Lucht;11301;595;43,22
+57;Scherdemaal;16748;617;85,09
+58;Anderlecht - Centrum - Wayez;10067;675;55,82
+59;Scheut;;657;62,64
+60;Buffon;14879;685;77,33
+61;Moortebeek - Peterbos;12323;658;74,40
+62;Machtens;14095;779;82,01
+63;Karreveld;10281;681;73,38
+64;Frans Hospitaal;;715;79,62
+65;Korenbeek;14988;832;77,81
+66;Potaarde;17772;832;81,91
+67;Sint-Agatha Berchem Centrum;14439;685;76,77
+68;Villa's van Ganshoren;;685;91,82
+69;Ganshoren Centrum;14748;741;78,77
+70;Basiliek;14162;699;71,82
+71;Woeste;13075;759;74,88
+72;Jette Centrum;15241;748;71,68
+73;Heymbosch - AZ-Jette;17710;749;87,38
+74;Heizel;;671;87,72
+75;Houba;11975;652;68,18
+76;Mutsaard;16943;755;87,54
+77;Heembeek;;753;81,14
+78;Haren;13077;736;69,97
+79;Vrede;12857;736;72,52
+80;Helmet;11116;673;58,49
+81;Schaarbeek Station;11486;695;59,36
+82;Terdelt;14266;679;72,10
+83;Conscience;12857;692;73,11
+84;Leopold III Laan;13486;928;91,24
+85;Josaphat Station;;835;82,41
+86;Paduwa;13779;794;79,74
+87;Reyers;15270;832;85,73
+88;Georges Henri;17604;842;86,98
+89;Gribaumont;;858;91,06
+90;Roodebeek - Sterrebeelden;16630;894;90,64
+91;Gulledelle;17157;926;93,37
+92;Kapelleveld;;926;83,56
+93;Woluwelaan;16706;926;82,31
+94;Stokkel;19709;952;89,57
+95;Sinte-Aleidis - Mooibos;21283;1113;88,22
+96;Sint-Paulus;21918;937;92,61
+97;Putdaal;;937;92,66
+98;Oudergem Centrum;17758;804;80,75
+99;Vogelzang;19432;837;92,58
+100;Waversteenweg - Sint-Juliaan;17003;768;82,66
+101;Drie Linden;15290;762;78,96
+102;Transvaal;19420;758;86,23
+103;Bosvoorde Centrum;21043;917;81,32
+104;Watermaal Centrum;;894;90,37
+105;Dries;;1006;87,33
+106;Boondaal;21239;836;84,13
+107;Universiteitswijk;13917;790;78,35
+108;Montjoie - Langeveld;23932;959;88,18
+109;Observatorium;;959;91,78
+110;Fort Jaco;;959;85,37
+111;Diesdelle;29004;959;94,47
+112;Kriekenput - Homborch - Verrewinkel;16097;959;84,11
+113;Sint-Job Kauwberg;19350;1038;84,74
+114;Dieweg;18953;962;87,33
+115;Kalevoet - Moensberg;16589;901;81,39
+116;Globe;17863;757;79,87
+117;Vossegat - Roosendaal;;813;89,83
+118;Sint-Denijs - Neerstalle;11855;725;60,68
+700;Kerkhof Brussel;;;
+701;Kerkhof Elsene;;;
+702;Kerkhof Sint-Gillis;;;
+800;Industrie Noord;;;
+801;Industrie NATO;;;
+802;Delta;;;
+803;Industrie Zuid;;;
+804;Zuidstation;;;
+805;Industrie Birmingham;;;
+900;Koninklijk Domein Laken;;;
+901;Josaphatpark;;;
+902;Kruidtuin;;;
+903;Jubelpark;;;
+904;Léopoldpark;;;
+905;Park van Woluwe;;;
+906;Zonienwoud;;;
+907;Ter Kamerenbos;;;
+908;Wolvendaelpark;;;
+909;Dudenpark - Park van Vorst;;;
+910;Vijverspark;;;
+911;Astridpark;;;
+912;Bospark;;;
+913;Marie-Josepark;;;
+914;Scheutbos;;;
+915;Elisabethpark;;;
+916;Laarbeekbos - Poelbos;;;
+917;Boudewijnpark - Dielegembos;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
